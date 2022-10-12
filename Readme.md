@@ -10,8 +10,7 @@ For Manipulating starting Projects need some research then it will get solve eas
 
 ![Badge](https://img.shields.io/badge/Projects%20of%20DOM%20Manipulation-Using%20JS-orange)
 
-![Image](F:\parag\WEB DEVELOPMENT\DOM PROJECTS\DOM-Assignments-Solutions\BEFORE-IMAGES\Pic4.png)
-![Image](F:\parag\WEB DEVELOPMENT\DOM PROJECTS\DOM-Assignments-Solutions\BEFORE-IMAGES\Pic17.png)
+
 
 # 👀 Feedback
 
